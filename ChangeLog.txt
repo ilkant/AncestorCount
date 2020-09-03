@@ -1,0 +1,8 @@
+Changelog AncestorCount
+
+
+Version 1.1
+    Calculates also amount of ancestors and amount of family.
+
+Version 1.0
+    Calculates estimate to ancestors birth date year.
